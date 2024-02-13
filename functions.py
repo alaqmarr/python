@@ -1,0 +1,5 @@
+# In Python, we do not use {} curly brackets to define a block of code. Instead, we use indentation. The number of spaces is up to you as a programmer, but it has to be at least one. The only rule is that the number of spaces must be the same in the same block of code, otherwise, Python will give an error. The standard is to use four spaces.
+
+# In Visual Studio Code, you can use the Tab key to indent the code. The Tab key will automatically insert four spaces. You can also use the Shift + Tab key to unindent the code.
+
+# The deafult indentation in Visual Studio Code is 4 spaces. You can change it by clicking on the gear icon in the bottom right corner of the window and then clicking on the "Settings" option. In the search bar, type "tab size" and change the value to 4. You can also change the value of "detect indentation" to "true" to automatically detect the indentation of the file.
